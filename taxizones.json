@@ -1,6 +1,6 @@
 {
     "icao": "EKCH",
-    "standard_taxitime": 15,
+    "standard_taxitime": 95,
     "taxizones": [
         {
             "polygon": [
@@ -28,7 +28,7 @@
                 }
             ],
             "label": "A-High",
-            "taxiout": true
+            "taxiout": false
         },
         {
             "polygon": [
@@ -57,7 +57,7 @@
                 }
             ],
             "label": "A4,6,8-A22",
-            "taxiout": true
+            "taxiout": false
         },
         {
             "polygon": [
@@ -86,7 +86,7 @@
                 }
             ],
             "label": "A12-A15",
-            "taxiout": true
+            "taxiout": false
         },
         {
             "polygon": [
@@ -114,7 +114,7 @@
                 }
             ],
             "label": "A7-A9",
-            "taxiout": true
+            "taxiout": false
         },
         {
             "polygon": [
@@ -142,7 +142,7 @@
                 }
             ],
             "label": "B4-B10",
-            "taxiout": true
+            "taxiout": false
         },
         {
             "polygon": [
@@ -170,7 +170,7 @@
                 }
             ],
             "label": "B16-B19",
-            "taxiout": true
+            "taxiout": false
         },
         {
             "polygon": [
@@ -198,7 +198,7 @@
                 }
             ],
             "label": "B3-B9",
-            "taxiout": true
+            "taxiout": false
         },
         {
             "polygon": [
@@ -226,7 +226,7 @@
                 }
             ],
             "label": "C-west",
-            "taxiout": true
+            "taxiout": false
         },
         {
             "polygon": [
@@ -254,7 +254,7 @@
                 }
             ],
             "label": "C-east+D+F4",
-            "taxiout": true
+            "taxiout": false
         },
         {
             "polygon": [
@@ -282,7 +282,7 @@
                 }
             ],
             "label": "F",
-            "taxiout": true
+            "taxiout": false
         },
         {
             "polygon": [
@@ -311,7 +311,7 @@
 
             ],
             "label": "F5-H106",
-            "taxiout": true
+            "taxiout": false
         },
         {
             "polygon": [
@@ -339,7 +339,7 @@
                 }
             ],
             "label": "High E",
-            "taxiout": true
+            "taxiout": false
         },
         {
             "polygon": [
@@ -367,7 +367,7 @@
                 }
             ],
             "label": "Cargo",
-            "taxiout": true
+            "taxiout": false
         }
 
     ],
