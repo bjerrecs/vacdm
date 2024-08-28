@@ -1,0 +1,396 @@
+{
+    "icao": "EKCH",
+    "standard_taxitime": 15,
+    "taxizones": [
+        {
+            "polygon": [
+                "N055.37.48.047:E012.38.41.873",
+                "N055.37.52.905:E012.37.58.544",
+                "N055.37.42.794:E012.37.45.521",
+                "N055.37.38.097:E012.38.15.912"
+            ],
+            "taxitimes": [
+                {
+                    "rwy_designator": "04R",
+                    "minutes": 18
+                },
+                {
+                    "rwy_designator": "22R",
+                    "minutes": 12
+                },
+                {
+                    "rwy_designator": "04L",
+                    "minutes": 21
+                },
+                {
+                    "rwy_designator": "22L",
+                    "minutes": 11
+                }
+            ],
+            "label": "A-High",
+            "taxiout": true
+        },
+        {
+            "polygon": [
+                "N055.37.41.162:E012.38.23.335",
+                "N055.37.38.406:E012.38.31.216",
+                "N055.37.44.039:E012.38.37.558",
+                "N055.37.44.918:E012.38.30.956"
+
+            ],
+            "taxitimes": [
+                {
+                    "rwy_designator": "04R",
+                    "minutes": 18
+                },
+                {
+                    "rwy_designator": "22R",
+                    "minutes": 12
+                },
+                {
+                    "rwy_designator": "04L",
+                    "minutes": 21
+                },
+                {
+                    "rwy_designator": "22L",
+                    "minutes": 10
+                }
+            ],
+            "label": "A4,6,8-A22",
+            "taxiout": true
+        },
+        {
+            "polygon": [
+                "N055.37.40.549:E012.38.24.692",
+                "N055.37.36.359:E012.38.35.734",
+                "N055.37.32.629:E012.38.31.570",
+                "N055.37.36.666:E012.38.20.348"
+
+            ],
+            "taxitimes": [
+                {
+                    "rwy_designator": "04R",
+                    "minutes": 17
+                },
+                {
+                    "rwy_designator": "22R",
+                    "minutes": 10
+                },
+                {
+                    "rwy_designator": "04L",
+                    "minutes": 19
+                },
+                {
+                    "rwy_designator": "22L",
+                    "minutes": 8
+                }
+            ],
+            "label": "A12-A15",
+            "taxiout": true
+        },
+        {
+            "polygon": [
+                "N055.37.43.988:E012.38.37.648",
+                "N055.37.43.633:E012.38.39.986",
+                "N055.37.36.359:E012.38.35.734",
+                "N055.37.38.304:E012.38.31.302"
+            ],
+            "taxitimes": [
+                {
+                    "rwy_designator": "04R",
+                    "minutes": 17
+                },
+                {
+                    "rwy_designator": "22R",
+                    "minutes": 12
+                },
+                {
+                    "rwy_designator": "04L",
+                    "minutes": 21
+                },
+                {
+                    "rwy_designator": "22L",
+                    "minutes": 9
+                }
+            ],
+            "label": "A7-A9",
+            "taxiout": true
+        },
+        {
+            "polygon": [
+                "N055.37.29.717:E012.38.34.148",
+                "N055.37.42.287:E012.38.39.714",
+                "N055.37.42.868:E012.38.44.791",
+                "N055.37.35.199:E012.38.42.099"
+            ],
+            "taxitimes": [
+                {
+                    "rwy_designator": "04R",
+                    "minutes": 17
+                },
+                {
+                    "rwy_designator": "22R",
+                    "minutes": 12
+                },
+                {
+                    "rwy_designator": "04L",
+                    "minutes": 21
+                },
+                {
+                    "rwy_designator": "22L",
+                    "minutes": 9
+                }
+            ],
+            "label": "B4-B10",
+            "taxiout": true
+        },
+        {
+            "polygon": [
+                "N055.37.29.531:E012.38.34.368",
+                "N055.37.34.504:E012.38.41.417",
+                "N055.37.32.591:E012.38.48.394",
+                "N055.37.24.946:E012.38.47.165"
+            ],
+            "taxitimes": [
+                {
+                    "rwy_designator": "04R",
+                    "minutes": 16
+                },
+                {
+                    "rwy_designator": "22R",
+                    "minutes": 9
+                },
+                {
+                    "rwy_designator": "04L",
+                    "minutes": 18
+                },
+                {
+                    "rwy_designator": "22L",
+                    "minutes": 7
+                }
+            ],
+            "label": "B16-B19",
+            "taxiout": true
+        },
+        {
+            "polygon": [
+                "N055.37.34.493:E012.38.41.508",
+                "N055.37.43.873:E012.38.44.976",
+                "N055.37.42.105:E012.38.51.840",
+                "N055.37.31.878:E012.38.49.591"
+            ],
+            "taxitimes": [
+                {
+                    "rwy_designator": "04R",
+                    "minutes": 16
+                },
+                {
+                    "rwy_designator": "22R",
+                    "minutes": 10
+                },
+                {
+                    "rwy_designator": "04L",
+                    "minutes": 19
+                },
+                {
+                    "rwy_designator": "22L",
+                    "minutes": 8
+                }
+            ],
+            "label": "B3-B9",
+            "taxiout": true
+        },
+        {
+            "polygon": [
+                "N055.37.41.448:E012.38.58.472",
+                "N055.37.24.127:E012.38.59.607",
+                "N055.37.24.127:E012.38.59.607",
+                "N055.37.42.082:E012.38.52.069"
+            ],
+            "taxitimes": [
+                {
+                    "rwy_designator": "04R",
+                    "minutes": 16
+                },
+                {
+                    "rwy_designator": "22R",
+                    "minutes": 10
+                },
+                {
+                    "rwy_designator": "04L",
+                    "minutes": 19
+                },
+                {
+                    "rwy_designator": "22L",
+                    "minutes": 7
+                }
+            ],
+            "label": "C-west",
+            "taxiout": true
+        },
+        {
+            "polygon": [
+                "N055.37.41.535:E012.38.58.622",
+                "N055.37.22.166:E012.38.59.445",
+                "N055.37.22.430:E012.39.18.699",
+                "N055.37.42.565:E012.39.27.013"
+            ],
+            "taxitimes": [
+                {
+                    "rwy_designator": "04R",
+                    "minutes": 15
+                },
+                {
+                    "rwy_designator": "22R",
+                    "minutes": 12
+                },
+                {
+                    "rwy_designator": "04L",
+                    "minutes": 21
+                },
+                {
+                    "rwy_designator": "22L",
+                    "minutes": 7
+                }
+            ],
+            "label": "C-east+D+F4",
+            "taxiout": true
+        },
+        {
+            "polygon": [
+                "N055.37.22.384:E012.39.13.364",
+                "N055.37.22.930:E012.39.40.525",
+                "N055.37.28.407:E012.39.38.021",
+                "N055.37.27.862:E012.39.08.832"
+            ],
+            "taxitimes": [
+                {
+                    "rwy_designator": "04R",
+                    "minutes": 15
+                },
+                {
+                    "rwy_designator": "22R",
+                    "minutes": 12
+                },
+                {
+                    "rwy_designator": "04L",
+                    "minutes": 21
+                },
+                {
+                    "rwy_designator": "22L",
+                    "minutes": 6
+                }
+            ],
+            "label": "F",
+            "taxiout": true
+        },
+        {
+            "polygon": [
+                "N055.37.41.831:E012.39.26.512",
+                "N055.37.32.469:E012.39.44.085",
+                "N055.37.28.224:E012.39.44.326",
+                "N055.37.27.542:E012.39.20.882"
+            ],
+            "taxitimes": [
+                {
+                    "rwy_designator": "04R",
+                    "minutes": 16
+                },
+                {
+                    "rwy_designator": "22R",
+                    "minutes": 13
+                },
+                {
+                    "rwy_designator": "04L",
+                    "minutes": 22
+                },
+                {
+                    "rwy_designator": "22L",
+                    "minutes": 5
+                }
+
+            ],
+            "label": "F5-H106",
+            "taxiout": true
+        },
+        {
+            "polygon": [
+                "N055.37.41.968:E012.39.26.514",
+                "N055.37.30.280:E012.39.51.442",
+                "N055.37.45.971:E012.40.16.553",
+                "N055.37.57.105:E012.39.52.804"
+            ],
+            "taxitimes": [
+                {
+                    "rwy_designator": "04R",
+                    "minutes": 17
+                },
+                {
+                    "rwy_designator": "22R",
+                    "minutes": 14
+                },
+                {
+                    "rwy_designator": "04L",
+                    "minutes": 23
+                },
+                {
+                    "rwy_designator": "22L",
+                    "minutes": 5
+                }
+            ],
+            "label": "High E",
+            "taxiout": true
+        },
+        {
+            "polygon": [
+                "N055.36.44.754:E012.40.53.723",
+                "N055.36.39.259:E012.40.03.736",
+                "N055.37.20.548:E012.39.51.252",
+                "N055.37.32.978:E012.40.38.260"
+            ],
+            "taxitimes": [
+                {
+                    "rwy_designator": "04R",
+                    "minutes": 19
+                },
+                {
+                    "rwy_designator": "22R",
+                    "minutes": 17
+                },
+                {
+                    "rwy_designator": "04L",
+                    "minutes": 26
+                },
+                {
+                    "rwy_designator": "22L",
+                    "minutes": 6
+                }
+            ],
+            "label": "Cargo",
+            "taxiout": true
+        }
+
+    ],
+    "capacities": [
+        {
+            "rwy_designator": "04R",
+            "capacity": 6,         
+            "alias": ""
+        },
+        {
+            "rwy_designator": "22R",
+            "capacity": 6,         
+            "alias": ""
+        },
+        {
+            "rwy_designator": "04L",
+            "capacity": 6,         
+            "alias": ""
+        },
+        {
+            "rwy_designator": "22L",
+            "capacity": 6,         
+            "alias": ""
+        }
+    ]
+}
