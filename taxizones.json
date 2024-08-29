@@ -12,19 +12,19 @@
             "taxitimes": [
                 {
                     "rwy_designator": "04R",
-                    "minutes": 18
+                    "minutes": "18"
                 },
                 {
                     "rwy_designator": "22R",
-                    "minutes": 12
+                    "minutes": "12"
                 },
                 {
                     "rwy_designator": "04L",
-                    "minutes": 21
+                    "minutes": "21"
                 },
                 {
                     "rwy_designator": "22L",
-                    "minutes": 11
+                    "minutes": "11"
                 }
             ],
             "label": "A-High",
@@ -41,19 +41,19 @@
             "taxitimes": [
                 {
                     "rwy_designator": "04R",
-                    "minutes": 18
+                    "minutes": "18"
                 },
                 {
                     "rwy_designator": "22R",
-                    "minutes": 12
+                    "minutes": "12"
                 },
                 {
                     "rwy_designator": "04L",
-                    "minutes": 21
+                    "minutes": "21"
                 },
                 {
                     "rwy_designator": "22L",
-                    "minutes": 10
+                    "minutes": "10"
                 }
             ],
             "label": "A4,6,8-A22",
@@ -70,19 +70,19 @@
             "taxitimes": [
                 {
                     "rwy_designator": "04R",
-                    "minutes": 17
+                    "minutes": "17"
                 },
                 {
                     "rwy_designator": "22R",
-                    "minutes": 10
+                    "minutes": "10"
                 },
                 {
                     "rwy_designator": "04L",
-                    "minutes": 19
+                    "minutes": "19"
                 },
                 {
                     "rwy_designator": "22L",
-                    "minutes": 8
+                    "minutes": "8"
                 }
             ],
             "label": "A12-A15",
@@ -98,19 +98,19 @@
             "taxitimes": [
                 {
                     "rwy_designator": "04R",
-                    "minutes": 17
+                    "minutes": "17"
                 },
                 {
                     "rwy_designator": "22R",
-                    "minutes": 12
+                    "minutes": "12"
                 },
                 {
                     "rwy_designator": "04L",
-                    "minutes": 21
+                    "minutes": "21"
                 },
                 {
                     "rwy_designator": "22L",
-                    "minutes": 9
+                    "minutes": "9"
                 }
             ],
             "label": "A7-A9",
@@ -126,19 +126,19 @@
             "taxitimes": [
                 {
                     "rwy_designator": "04R",
-                    "minutes": 17
+                    "minutes": "17"
                 },
                 {
                     "rwy_designator": "22R",
-                    "minutes": 12
+                    "minutes": "12"
                 },
                 {
                     "rwy_designator": "04L",
-                    "minutes": 21
+                    "minutes": "21"
                 },
                 {
                     "rwy_designator": "22L",
-                    "minutes": 9
+                    "minutes": "9"
                 }
             ],
             "label": "B4-B10",
@@ -154,19 +154,19 @@
             "taxitimes": [
                 {
                     "rwy_designator": "04R",
-                    "minutes": 16
+                    "minutes": "16"
                 },
                 {
                     "rwy_designator": "22R",
-                    "minutes": 9
+                    "minutes": "9"
                 },
                 {
                     "rwy_designator": "04L",
-                    "minutes": 18
+                    "minutes": "18"
                 },
                 {
                     "rwy_designator": "22L",
-                    "minutes": 7
+                    "minutes": "7"
                 }
             ],
             "label": "B16-B19",
@@ -182,19 +182,19 @@
             "taxitimes": [
                 {
                     "rwy_designator": "04R",
-                    "minutes": 16
+                    "minutes": "16"
                 },
                 {
                     "rwy_designator": "22R",
-                    "minutes": 10
+                    "minutes": "10"
                 },
                 {
                     "rwy_designator": "04L",
-                    "minutes": 19
+                    "minutes": "19"
                 },
                 {
                     "rwy_designator": "22L",
-                    "minutes": 8
+                    "minutes": "8"
                 }
             ],
             "label": "B3-B9",
@@ -210,19 +210,19 @@
             "taxitimes": [
                 {
                     "rwy_designator": "04R",
-                    "minutes": 16
+                    "minutes": "16"
                 },
                 {
                     "rwy_designator": "22R",
-                    "minutes": 10
+                    "minutes": "10"
                 },
                 {
                     "rwy_designator": "04L",
-                    "minutes": 19
+                    "minutes": "19"
                 },
                 {
                     "rwy_designator": "22L",
-                    "minutes": 7
+                    "minutes": "7"
                 }
             ],
             "label": "C-west",
@@ -238,19 +238,19 @@
             "taxitimes": [
                 {
                     "rwy_designator": "04R",
-                    "minutes": 15
+                    "minutes": "15"
                 },
                 {
                     "rwy_designator": "22R",
-                    "minutes": 12
+                    "minutes": "12"
                 },
                 {
                     "rwy_designator": "04L",
-                    "minutes": 21
+                    "minutes": "21"
                 },
                 {
                     "rwy_designator": "22L",
-                    "minutes": 7
+                    "minutes": "7"
                 }
             ],
             "label": "C-east+D+F4",
@@ -266,23 +266,23 @@
             "taxitimes": [
                 {
                     "rwy_designator": "04R",
-                    "minutes": 15
+                    "minutes": "15"
                 },
                 {
                     "rwy_designator": "22R",
-                    "minutes": 12
+                    "minutes": "12"
                 },
                 {
                     "rwy_designator": "04L",
-                    "minutes": 21
+                    "minutes": "21"
                 },
                 {
                     "rwy_designator": "22L",
-                    "minutes": 6
+                    "minutes": "6"
                 }
             ],
             "label": "F",
-            "taxiout": false
+            "taxiout": true
         },
         {
             "polygon": [
@@ -294,19 +294,19 @@
             "taxitimes": [
                 {
                     "rwy_designator": "04R",
-                    "minutes": 16
+                    "minutes": "16"
                 },
                 {
                     "rwy_designator": "22R",
-                    "minutes": 13
+                    "minutes": "13"
                 },
                 {
                     "rwy_designator": "04L",
-                    "minutes": 22
+                    "minutes": "22"
                 },
                 {
                     "rwy_designator": "22L",
-                    "minutes": 5
+                    "minutes": "5"
                 }
 
             ],
@@ -323,19 +323,19 @@
             "taxitimes": [
                 {
                     "rwy_designator": "04R",
-                    "minutes": 17
+                    "minutes": "17"
                 },
                 {
                     "rwy_designator": "22R",
-                    "minutes": 14
+                    "minutes": "14"
                 },
                 {
                     "rwy_designator": "04L",
-                    "minutes": 23
+                    "minutes": "23"
                 },
                 {
                     "rwy_designator": "22L",
-                    "minutes": 5
+                    "minutes": "5"
                 }
             ],
             "label": "High E",
@@ -351,19 +351,19 @@
             "taxitimes": [
                 {
                     "rwy_designator": "04R",
-                    "minutes": 19
+                    "minutes": "19"
                 },
                 {
                     "rwy_designator": "22R",
-                    "minutes": 17
+                    "minutes": "17"
                 },
                 {
                     "rwy_designator": "04L",
-                    "minutes": 26
+                    "minutes": "26"
                 },
                 {
                     "rwy_designator": "22L",
-                    "minutes": 6
+                    "minutes": "6"
                 }
             ],
             "label": "Cargo",
@@ -374,22 +374,22 @@
     "capacities": [
         {
             "rwy_designator": "04R",
-            "capacity": 6,         
+            "capacity": "6",         
             "alias": ""
         },
         {
             "rwy_designator": "22R",
-            "capacity": 6,         
+            "capacity": "6",         
             "alias": ""
         },
         {
             "rwy_designator": "04L",
-            "capacity": 6,         
+            "capacity": "6",         
             "alias": ""
         },
         {
             "rwy_designator": "22L",
-            "capacity": 6,         
+            "capacity": "6",         
             "alias": ""
         }
     ]
